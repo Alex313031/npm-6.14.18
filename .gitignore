@@ -10,7 +10,6 @@ npm-debug.log
 /node_modules/.bin
 /docs/output/
 /docs/node_modules/
-/man/
 /npmrc
 /release/
 /npm-*.tgz
